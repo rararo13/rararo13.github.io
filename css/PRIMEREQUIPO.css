@@ -1,0 +1,49 @@
+.ENCABEZADO{                       /* Añado estilos a la foto de mi encabezado */
+  width: 100%;
+  }
+.superior{
+  margin:0px; 
+  padding:0px;
+}
+                                  /* Añado estilos a la barra de navegacion */
+  nav ul li a {
+    font-family: "Impact";
+    color: white;
+    font-size: 30px;
+    
+    width: 100%;
+  }
+
+  .fondo{
+    /* Ubicación de la imagen */
+    
+    background-image: url(jpg/fondoweb.png);
+    
+    /* Para dejar la imagen de fondo centrada, vertical y
+    
+    horizontalmente */
+    
+    background-position: center center;
+    
+    /* Para que la imagen de fondo no se repita */
+    
+    background-repeat: no-repeat;
+    
+    /* La imagen se fija en la ventana de visualización para que la altura de la imagen no supere a la del contenido */
+    
+    background-attachment: fixed;
+    
+    /* La imagen de fondo se reescala automáticamente con el cambio del ancho de ventana del navegador */
+    
+    background-size: cover;
+    
+    /* Se muestra un color de fondo mientras se está cargando la imagen
+    
+    de fondo o si hay problemas para cargarla */
+    
+    background-color: #66999;
+    }
+
+    h3{
+      color: black;
+    }
