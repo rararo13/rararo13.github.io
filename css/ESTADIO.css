@@ -17,7 +17,7 @@
     .fondo{
       /* Ubicación de la imagen */
       
-      background-image: url(jpg/fondoweb.png);
+      background-image: url(../jpg/fondoweb.png);
       
       /* Para dejar la imagen de fondo centrada, vertical y
       
