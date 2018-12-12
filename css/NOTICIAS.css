@@ -70,7 +70,12 @@
 }
 
 
-
+ /* Añado estilos al titulo de las noticias*/
+ h1{
+    color:black;
+    margin-left: 17%;
+    margin-bottom: 40px;
+}
 
 
 
