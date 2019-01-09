@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+   <feed xmlns="http://www.w3.org/2005/Atom">
+
+      <title>El tiempo</title>
+      <link href="https://www.tiempo.es/" rel="alternate" type="text/html" />
+      <updated>2018-06-11T18:30:02Z</updated>
+      <author>
+         <name>Rafa Ramírez Román</name>
+      </author>
+      <id>https://www.tiempo.es/</id>
+      
+      <entry>
+         <title>El tiempo en Sevilla</title>
+         <id>https://www.tiempo.es/prediction/</id>
+         <link href="https://www.eltiempo.es/sevilla.html" />
+         <summary>Predicción en Sevilla</summary>
+         <updated>2018-06-11T18:30:02Z</updated>
+      </entry>
+
+      <entry>
+         <title>El tiempo en Almería</title>
+         <id>https://www.tiempo.es/prediction/</id>
+         <link href="https://www.tiempo.es/almeria-es2521883.html" />
+         <summary>Predicción en Almería</summary>
+         <updated>2018-06-11T18:30:02Z</updated>
+      </entry>
+</feed>

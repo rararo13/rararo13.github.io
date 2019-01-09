@@ -1,0 +1,24 @@
+<rss version="2.0">
+ <!--  Se define el canal  -->
+    <channel>
+
+        <title>El tiempo en Sevilla</title>
+        <link> https://www.tiempo.es/</link>
+        <description>Esto es una feed de contenidos</description>
+        <language>es-Es</language>
+ 
+ <!--  Se definen los distintos tipos del canal  -->
+        <item>
+            <title>EL Tiempo en Sevilla</title>
+            <guid>https://www.tiempo.es/sevilla-sevilla-es0se0093.html</guid>
+            <description>El tiempo en Sevilla</description>
+        </item>
+        
+        <item>
+            <title>EL Tiempo en Almeria</title>
+            <guid>https://www.tiempo.es/almeria-es2521883.html</guid>
+            <description>El tiempo en Almeria</description>
+        </item>
+    
+    </channel>
+</rss>
